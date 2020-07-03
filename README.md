@@ -2,8 +2,6 @@
 Install
 Just git clone repo to the Custom Scenery folder in X-Plane dir
 
-Developers
-You can check datarefs and command via sasl3 widget
 
 Discord Server
 https://discord.gg/XVwjxBH
