@@ -1,7 +1,7 @@
 # ROAH for X-Plane 11
 Install
 Just git clone repo to the Custom Scenery folder in X-Plane dir
-
+You need Mister X Library and SAM for this scenery.
 
 Discord Server
 https://discord.gg/XVwjxBH
