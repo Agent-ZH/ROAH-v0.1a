@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<scenery name="ROAH" locked="false">
+  <datarefs />
+  <objects />
+  <jetwayDescriptions />
+  <jetways>
+    <jetway name="Jetway" latitude="26.211842113253038" longitude="127.64996606520879" heading="-92.048469543457031" height="4" wheelPos="13" cabinPos="15.8999996" cabinLength="2.79999995" wheelDiameter="0.699999988" wheelDistance="2" sound="" minRot1="-90" maxRot1="90" minRot2="-90" maxRot2="90" minRot3="-6" maxRot3="6" minExtent="0" maxExtent="100" minWheels="-2.4000001" maxWheels="1.27999997" initialRot1="0" initialRot2="0" initialRot3="0" initialExtent="0" />
+  </jetways>
+  <docks />
+  <gui />
+  <static_aircrafts />
+</scenery>
