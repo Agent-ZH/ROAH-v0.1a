@@ -1,15 +1,12 @@
 # ROAH for X-Plane 11
 Install
-Just git clone repo to the Aircraft X-Plane dir
-
-What works?
-Something at this moment
+Just git clone repo to the Custom Scenery folder in X-Plane dir
 
 Developers
 You can check datarefs and command via sasl3 widget
 
 Discord Server
-https://discord.gg/736HbJZ
+https://discord.gg/XVwjxBH
 
 Developing state
 In Alpha State
