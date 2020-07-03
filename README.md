@@ -15,4 +15,4 @@ In Alpha State
 Copyright
 ZH
 
-This aircraft addon is licensed under the GNU General Public License V3.0 License.
+This scenery addon is licensed under the GNU General Public License V3.0 License.
