@@ -8,7 +8,7 @@ An open source project willing to create awesome open source scenery.
 
 You can find more infos about our progress in our [Discord Server](https://discord.gg/XVwjxBH)
 
-#Installing
+# Installing
 
 This section assume that you already have [git](https://git-scm.com/) and you know how to use a terminal and navigate with it.
 So with your favorite terminal, navigate to the 'Custom Scenery' folder in X-Plane 11. then run
