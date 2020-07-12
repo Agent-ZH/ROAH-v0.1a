@@ -10,6 +10,7 @@ You can find more infos about our progress in our [Discord Server](https://disco
 
 # Installing
 
+## SAM library and MisterX library are needed !
 This section assume that you already have [git](https://git-scm.com/) and you know how to use a terminal and navigate with it.
 So with your favorite terminal, navigate to the 'Custom Scenery' folder in X-Plane 11. then run
 ```sh
